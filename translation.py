@@ -29,20 +29,31 @@ SUPPORT GROUP: [Bot Supporters](https://telegram.dog/thanimaibots)
 #Please don't change this about command 🙏
 
       ABOUT = """
+╭────[🔥CONVERT-BOT🔥]───⍟
+│
+├<b>🤖 Bot Name : <a href='http://t.me/Thanimaiconvetorbot'>🔥CONVERT-BOT🔥</a></b>
+│
+├<b>📢 Channel : <a href='https://t.me/Thanimaibots'>Thanimaibots</a></b>
+│
+├<b>👥 Version : <a href='https://t.me/Thanimaiconvetor'>0.9.2 beta</a></b>
+│
+├<b>💢 Source : <a href='https://t.me/thanimaiowner'>Click Here</a></b>
+│
+├<b>🌐 Server : <a href='https://heroku.com'>Heroku</a></b>
+│
+├<b>📕 Library : <a href='https://github.com/pyrogram'>Pyrogram 1.2.8</a></b>
+│
+├<b>㊙ Language: <a href='https://www.python.org'>Python 3.9.4</a></b>
+│
+├<b>👨‍💻 Developer : <a href='https://t.me/sarbudeen786'>💔 Lonelyking 💔</a></b>
+│
+├<b>🚸 Powered By : <a href='https://t.me/Thanimaibots'>Thanimai Network</a></b>
+│
+╰──────[Thanks 😊]───⍟"""
 
-📝 Language: Python 3
 
-🧰 Framework: Pyrogram
 
-👨‍💻 Developer: [💔Lonelyking💔](https://t.me/sarbudeen786)
 
-📮 Channel: [ BOT UPDATES](https://t.me/Thanimaibots)
-
-👥 Group: [ BOT SUPPOTERS](https://t.me/thanimaisupport)
-
-💻 Source Code:[Press Me](https://github.com/lonelysing)
-
-"""
 
 ####################################################################################################################################################
 
